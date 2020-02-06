@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "vkpypy.github.io/precache-manifest.fc15bada8239458e4ce9b59158895c24.js"
+  "vkpypy.github.io/precache-manifest.3e217d3977000b6278b4f8926d5ce494.js"
 );
 
 self.addEventListener('message', (event) => {
